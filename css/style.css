@@ -1,0 +1,135 @@
+@font-face {
+    font-family: roboto;
+    src: url(../font/Roboto-Black.ttf);
+}
+body{
+    background-color: rgb(55, 27, 88);
+}
+.navbar{
+    margin-left: 1px;
+    margin-right: 1px;
+    padding: 10px;
+    font-family: roboto;
+    background-color: rgb(204, 179, 238);
+    text-decoration: none;
+    text-align: center;
+    word-spacing: 150PX;
+    
+}
+.navbar :link{
+    color: rgb(55, 27, 88);
+    text-decoration: none;
+}
+.navbar :hover{
+    color: rgb(255, 255, 255);
+    transition: 500ms;
+}
+.title{
+    color: aliceblue;
+    text-align: center;
+    font-family: roboto;
+    text-decoration: underline;
+    word-spacing: 5px;
+}
+.image{
+    width: 35%;
+    border-radius: 5%;
+    margin-left: 32%;
+}
+.section{
+    margin-top: 20px;
+    height: 200px;    
+    background-color: #4C3575;
+    border-radius: 50%;
+}
+.section:hover{
+    background-color: #371B58 ;
+    transition: 500ms;
+}
+h2{
+    color: rgb(169, 16, 121) ;
+    ;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.paragraph{
+    font-size:smaller;
+    padding-top: 0px;
+    text-align: center;
+    font-family: roboto;
+    color: white;
+
+}
+.list{
+    padding-left: 40%;
+    font-family: roboto;
+    color: white;
+    
+}
+.vedio{
+    width: 40%;
+    height: 200px;
+    margin-left: 30%;
+    border-radius: 5%;
+}
+.footer{
+    margin-top: 20px;
+    height: 400px;    
+    background-color: #4C3575;
+    border-radius: 50%;
+}
+.footer:hover{
+    background-color: #371B58 ;
+    transition: 500ms;
+}
+.input{
+    height: 30px;
+    width: 300px;
+    margin-left: 35%;
+}
+.button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 30px;
+    margin-left: 45%;
+    border-radius: 10%;
+}
+.button:hover{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    transition: 300ms;
+}
+h4{
+    text-align: center;
+}
+.fa-brands{
+    margin-left: 47%;
+}
+.instagram{
+    color: black;
+    font-family: roboto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
